@@ -1,0 +1,28 @@
+*{
+    background-color: azure;
+    margin-top: 40px;
+  }
+  button{
+    padding:40px;
+    border-radius: 100px;
+    font-size: 25px;
+    background-color: orange;
+    border: none;
+    margin-top: 5px;
+     margin-right: 5px;
+  }
+  #calc{
+     background-color: black;
+     display: inline-block;
+     border-radius: 50px;
+  }
+  input{
+    width: 410px;
+    margin-left: 6px;
+    border-radius: 100px;
+    padding: 30px;
+    text-align: end ; 
+    border: none;
+    margin-bottom: 8px;
+    font-size: large;
+  }
